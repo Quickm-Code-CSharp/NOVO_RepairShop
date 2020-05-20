@@ -1,0 +1,27 @@
+﻿
+C# Console Application
+At NOVO we always strive to adhere to the SOLID principles of software development
+and design and apply those best practices in all our clients code. The purpose of this
+exercise is to ask the candidate to demonstrate working knowledge of those principles
+by implementing a toy example of a vehicle repair shop as described below.
+
+
+
+Character Event
+'a'
+Add a vehicle with a unique
+ID to the shop to the end of
+the queue
+'t'
+Test the next vehicle in the
+queue and pass with a
+random Boolean result. (see
+notes on testing)
+'l'
+List all the vehicles in the
+shop showing
+pass/fail/unknown result
+'r'
+Remove the next vehicle in
+the shop without (re)testing
+'c' Close the shop (exit the app)
